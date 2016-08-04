@@ -1,0 +1,29 @@
+_repo: America-Through-the-Spectacles-of-an-Oriental-Diplomat_609
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wu, Tingfang
+    alias: 伍廷芳
+    birthdate: 1842
+    deathdate: 1922
+    gutenberg_agent_id: '319'
+    url: http://www.gutenberg.org/2009/agents/319
+    wikipedia: http://en.wikipedia.org/wiki/Wu_Tingfang
+description: ''
+gutenberg_issued: '1996-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '609'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Civilization -- 1865-1918'
+- !lcsh 'China -- Civilization -- 1644-1912'
+- !lcsh 'China -- Social life and customs -- 1644-1912'
+- !lcsh 'United States -- Social life and customs -- 1865-1918'
+- !lcc 'E151'
+- GITenberg
+title: America, Through the Spectacles of an Oriental Diplomat
+url: http://www.gutenberg.org/ebooks/609
