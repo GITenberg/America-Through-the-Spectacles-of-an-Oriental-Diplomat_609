@@ -1,5 +1,8 @@
 _repo: America-Through-the-Spectacles-of-an-Oriental-Diplomat_609
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Wu, Tingfang
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/319
     wikipedia: http://en.wikipedia.org/wiki/Wu_Tingfang
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/609#America-Through-the-Spectacles-of-an-Oriental-Diplomat
 gutenberg_issued: '1996-08-01'
 gutenberg_type: Text
 identifiers:
